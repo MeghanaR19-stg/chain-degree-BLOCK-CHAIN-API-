@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+python-dotenv
+web3
+qrcode
+google-generativeai
+pydantic
