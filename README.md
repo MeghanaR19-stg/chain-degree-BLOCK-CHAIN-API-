@@ -14,8 +14,5 @@ Blockchain-Based Certificate Verification System
 - React.js
 - Web3
 
-## 📦 How to Run
-(steps here)
-
 ## 👥 Team
 TWIN CHAIN
